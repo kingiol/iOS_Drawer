@@ -40,6 +40,7 @@
 [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) | 一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件 | OC
 [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) | 可以使用git图片实现下拉刷新功能 | OC
 [Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) | 简单可定制的下拉刷新 | OC
+[BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) | 集成SpriteKit小游戏 | OC
 
 #### <a name="tableview">TableView
 
