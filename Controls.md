@@ -19,6 +19,7 @@
 [UI-相关](#ui-related)
 
 &nbsp;&nbsp;&nbsp;&nbsp;|--[Screenshot(截图)](#ui-screenshot)
+&nbsp;&nbsp;&nbsp;&nbsp;|--[AutoLayout(自动布局)](#ui-autolayout)
 
 [UI-框架](#ui-framework)
 
@@ -59,6 +60,13 @@
 | Title | Description | Language |
 | :----------: | :--------: | :--------: |
 [DHSmartScreenshot](https://github.com/davidman/DHSmartScreenshot) | 简单的,对UITableView/UIScrollView截图生成图片 | OC
+
+### <a name="ui-autolayout">AutoLayout(自动布局)
+
+| Title | Description | Language |
+| :----------: | :--------: | :--------: |
+[FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) | UIView的扩展，可以代码设置UIView的布局约束 | OC
+[Masonry](https://github.com/Masonry/Masonry) | 强大的用来设置UIView的布局约束 | OC
 
 ## <a name="ui-framework">UI-框架
 
