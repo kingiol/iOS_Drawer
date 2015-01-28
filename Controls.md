@@ -1,16 +1,16 @@
 #Controls
 
-UI(#ui)
+[UI](#ui)
 
-&nbsp;&nbsp;&nbsp;&nbsp;|--Label(#label)
+&nbsp;&nbsp;&nbsp;&nbsp;|--[Label](#label)
 
-&nbsp;&nbsp;&nbsp;&nbsp;|--ScrollView(#scrollview)
+&nbsp;&nbsp;&nbsp;&nbsp;|--[ScrollView](#scrollview)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--TableView(#tableview)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--[TableView](#tableview)
 
-Animations(#animation)
+[Animations](#animation)
 
-Interaction(#interaction)
+[Interaction](#interaction)
 
 ## <a name="ui">UI
 
