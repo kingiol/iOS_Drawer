@@ -30,6 +30,8 @@
 
 [App辅助](#app_support)
 
+[Tools类](#app_tools)
+
 [底层架构](#core-framework)
 
 [黑魔法](#black-hole)
@@ -97,6 +99,12 @@
 | Title | Description | Language |
 | :----------: | :--------: | :--------: |
 [Siren](https://github.com/ArtSabintsev/Siren) | 检查App Store是否有最新版本更新，提示升级用的 | Swift
+
+## <a name="app_tools">Tools类
+
+| Title | Description | Language |
+| :----------: | :--------: | :--------: |
+[YPFastDateParser](https://github.com/Yelp/YPFastDateParser) | 快速进行日期(date)的格式化,比NSDateFormatter还要快一点 | OC
 
 ## <a name="core-framework">底层架构
 
