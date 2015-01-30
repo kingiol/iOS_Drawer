@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;|--[Menu](#menu)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--[TableView](#tableview)
+&nbsp;&nbsp;&nbsp;&nbsp;|--[TabBar](#tabbar)
 
 [Animations](#animation)
 
@@ -25,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--[AutoLayout(自动布局)](#ui-autolayout)
 
 [UI-框架](#ui-framework)
+
+[App扩展](#app_category)
 
 [App辅助](#app_support)
 
@@ -61,6 +63,12 @@
 | :----------: | :--------: | :--------: |
 [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) | 优美的内容菜单效果 | OC
 
+### <a name="tabbar">TabBar
+
+| Title | Description | Language | Sceenshot |
+| :----------: | :--------: | :--------: | :--------: |
+[FancyTabBar](https://github.com/marvelapp/FancyTabBar) | 可以向四周扩散的一个按钮 | OC | ![FancyTabBar](https://camo.githubusercontent.com/fb3a69ca7d5e16284f0b2926122a29ee04b8cb3e/687474703a2f2f692e696d6775722e636f6d2f526c4b794c4b552e676966)
+
 ## <a name="ui-related">UI-相关
 
 ### <a name="ui-screenshot">Screenshot(截图)
@@ -77,6 +85,12 @@
 [Masonry](https://github.com/Masonry/Masonry) | 强大的用来设置UIView的布局约束 | OC
 
 ## <a name="ui-framework">UI-框架
+
+## <a name="app_category">App扩展
+
+| Title | Description | Language |
+| :----------: | :--------: | :--------: |
+[uidevice-extension](https://github.com/erica/uidevice-extension) | 获得当前设备的基本信息 | OC
 
 ## <a name="app_support">App辅助
 
