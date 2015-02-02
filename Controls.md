@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--[TableView](#tableview)
 
+&nbsp;&nbsp;&nbsp;&nbsp;|--[NavigationBar](#navigationbar)
+
 &nbsp;&nbsp;&nbsp;&nbsp;|--[Menu](#menu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;|--[TabBar](#tabbar)
@@ -17,6 +19,8 @@
 [Animations](#animation)
 
 [Interaction](#interaction)
+
+&nbsp;&nbsp;&nbsp;&nbsp;|--[Transitions](#transitions)
 
 [UI-相关](#ui-related)
 
@@ -59,6 +63,12 @@
 [MYTableViewManager](https://github.com/nghialv/MYTableViewManager) | 简化Delegate和Datasource带来的复杂性,可以动态设置cell高度 | Swift
 [iOS8SelfSizingCells](https://github.com/MoZhouqi/iOS8SelfSizingCells) | 运用自动布局实现cell自动大小 | Swift
 
+## <a name="navigationbar"> NavigationBar
+
+| Title | Description | Language |
+| :----------: | :--------: | :--------: |
+[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) | 能够是navigationBar进行隐藏的效果 | OC
+
 ### <a name="menu">Menu
 
 | Title | Description | Language |
@@ -70,6 +80,18 @@
 | Title | Description | Language | Sceenshot |
 | :----------: | :--------: | :--------: | :--------: |
 [FancyTabBar](https://github.com/marvelapp/FancyTabBar) | 可以向四周扩散的一个按钮 | OC | ![FancyTabBar](https://camo.githubusercontent.com/fb3a69ca7d5e16284f0b2926122a29ee04b8cb3e/687474703a2f2f692e696d6775722e636f6d2f526c4b794c4b552e676966)
+[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 能够让tabbar上面的图片具有动效 | Swift | ![animated-tab-bar](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
+
+## <a name="animation">Animations
+
+## <a name="interaction">Interaction
+
+### <a name="transitions">Transitions
+
+| Title | Description | Language | Sceenshot |
+| :----------: | :--------: | :--------: | :--------: |
+[ADTransitionController](https://github.com/applidium/ADTransitionController) | 自定义的UINavigationController转换动画 | OC | 
+[AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) | 能够让tableview的cell具有wave的效果 | OC | ![](https://raw.githubusercontent.com/andreamazz/AMWaveTransition/master/assets/screenshot.gif)
 
 ## <a name="ui-related">UI-相关
 
